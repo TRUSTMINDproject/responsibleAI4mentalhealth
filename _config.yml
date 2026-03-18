@@ -1,6 +1,6 @@
 # Site settings
-title: Responsible Machine Learning in Healthcare (Invited Workshop)
-email: ewipe@dtu.dk
+title: Responsible Artificial Intelligence in Mental Health (Invited Workshop)
+email: ganz@di.ku.dk
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
